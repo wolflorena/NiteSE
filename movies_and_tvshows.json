@@ -1,0 +1,733 @@
+[
+  {
+    "details": {
+      "type": "movie",
+      "name": "The Godfather",
+      "genre": "Crime, Drama",
+      "production_year": 1972,
+      "age_range": "18+",
+      "duration": "175 minutes"
+    },
+    "facts": {
+      "q0": "movie",
+      "q1": ["crime", "drama"],
+      "q2": 1972,
+      "q3": "18+",
+      "qm0": 175
+    }
+  },
+  {
+    "details": {
+      "type": "movie",
+      "name": "The Shawshank Redemption",
+      "genre": "Drama",
+      "production_year": 1994,
+      "age_range": "18+",
+      "duration": "142 minutes"
+    },
+    "facts": {
+      "q0": "movie",
+      "q1": ["drama"],
+      "q2": 1994,
+      "q3": "18+",
+      "qm0": 142
+    }
+  },
+  {
+    "details": {
+      "type": "movie",
+      "name": "Pulp Fiction",
+      "genre": "Crime, Drama",
+      "production_year": 1994,
+      "age_range": "18+",
+      "duration": "154 minutes"
+    },
+    "facts": {
+      "q0": "movie",
+      "q1": ["crime", "drama"],
+      "q2": 1994,
+      "q3": "18+",
+      "qm0": 154
+    }
+  },
+  {
+    "details": {
+      "type": "movie",
+      "name": "The Dark Knight",
+      "genre": "Action, Crime, Drama",
+      "production_year": 2008,
+      "age_range": "13+",
+      "duration": "152 minutes"
+    },
+    "facts": {
+      "q0": "movie",
+      "q1": ["action", "crime", "drama"],
+      "q2": 2008,
+      "q3": "13+",
+      "qm0": 152
+    }
+  },
+  {
+    "details": {
+      "type": "movie",
+      "name": "Forrest Gump",
+      "genre": "Drama, Romance",
+      "production_year": 1994,
+      "age_range": "13+",
+      "duration": "142 minutes"
+    },
+    "facts": {
+      "q0": "movie",
+      "q1": ["drama", "romance"],
+      "q2": 1994,
+      "q3": "13+",
+      "qm0": 142
+    }
+  },
+  {
+    "details": {
+      "type": "movie",
+      "name": "Schindler's List",
+      "genre": "Biography, Drama, History",
+      "production_year": 1993,
+      "age_range": "18+",
+      "duration": "195 minutes"
+    },
+    "facts": {
+      "q0": "movie",
+      "q1": ["biography", "drama", "history"],
+      "q2": 1993,
+      "q3": "18+",
+      "qm0": 195
+    }
+  },
+  {
+    "details": {
+      "type": "movie",
+      "name": "The Lord of the Rings: The Fellowship of the Ring",
+      "genre": "Adventure, Drama, Fantasy",
+      "production_year": 2001,
+      "age_range": "13+",
+      "duration": "178 minutes"
+    },
+    "facts": {
+      "q0": "movie",
+      "q1": ["adventure", "drama", "fantasy"],
+      "q2": 2001,
+      "q3": "13+",
+      "qm0": 178
+    }
+  },
+  {
+    "details": {
+      "type": "movie",
+      "name": "Fight Club",
+      "genre": "Drama",
+      "production_year": 1999,
+      "age_range": "18+",
+      "duration": "139 minutes"
+    },
+    "facts": {
+      "q0": "movie",
+      "q1": ["drama"],
+      "q2": 1999,
+      "q3": "18+",
+      "qm0": 139
+    }
+  },
+  {
+    "details": {
+      "type": "movie",
+      "name": "Inception",
+      "genre": "Action, Adventure, Sci-Fi",
+      "production_year": 2010,
+      "age_range": "13+",
+      "duration": "148 minutes"
+    },
+    "facts": {
+      "q0": "movie",
+      "q1": ["action", "adventure", "sci-fi"],
+      "q2": 2010,
+      "q3": "13+",
+      "qm0": 148
+    }
+  },
+  {
+    "details": {
+      "type": "movie",
+      "name": "The Matrix",
+      "genre": "Action, Sci-Fi",
+      "production_year": 1999,
+      "age_range": "18+",
+      "duration": "136 minutes"
+    },
+    "facts": {
+      "q0": "movie",
+      "q1": ["action", "sci-fi"],
+      "q2": 1999,
+      "q3": "18+",
+      "qm0": 136
+    }
+  },
+  {
+    "details": {
+      "type": "movie",
+      "name": "The Silence of the Lambs",
+      "genre": "Crime, Drama, Thriller",
+      "production_year": 1991,
+      "age_range": "18+",
+      "duration": "118 minutes"
+    },
+    "facts": {
+      "q0": "movie",
+      "q1": ["crime", "drama", "thriller"],
+      "q2": 1991,
+      "q3": "18+",
+      "qm0": 118
+    }
+  },
+  {
+    "details": {
+      "type": "movie",
+      "name": "Goodfellas",
+      "genre": "Biography, Crime, Drama",
+      "production_year": 1990,
+      "age_range": "18+",
+      "duration": "146 minutes"
+    },
+    "facts": {
+      "q0": "movie",
+      "q1": ["biography", "crime", "drama"],
+      "q2": 1990,
+      "q3": "18+",
+      "qm0": 146
+    }
+  },
+  {
+    "details": {
+      "type": "movie",
+      "name": "The Departed",
+      "genre": "Crime, Drama, Thriller",
+      "production_year": 2006,
+      "age_range": "18+",
+      "duration": "151 minutes"
+    },
+    "facts": {
+      "q0": "movie",
+      "q1": ["crime", "drama", "thriller"],
+      "q2": 2006,
+      "q3": "18+",
+      "qm0": 151
+    }
+  },
+  {
+    "details": {
+      "type": "movie",
+      "name": "Saving Private Ryan",
+      "genre": "Drama, War",
+      "production_year": 1998,
+      "age_range": "18+",
+      "duration": "169 minutes"
+    },
+    "facts": {
+      "q0": "movie",
+      "q1": ["drama", "war"],
+      "q2": 1998,
+      "q3": "18+",
+      "qm0": 169
+    }
+  },
+  {
+    "details": {
+      "type": "movie",
+      "name": "The Green Mile",
+      "genre": "Crime, Drama, Fantasy",
+      "production_year": 1999,
+      "age_range": "18+",
+      "duration": "189 minutes"
+    },
+    "facts": {
+      "q0": "movie",
+      "q1": ["crime", "drama", "fantasy"],
+      "q2": 1999,
+      "q3": "18+",
+      "qm0": 189
+    }
+  },
+  {
+    "details": {
+      "type": "movie",
+      "name": "The Shining",
+      "genre": "Drama, Horror",
+      "production_year": 1980,
+      "age_range": "18+",
+      "duration": "146 minutes"
+    },
+    "facts": {
+      "q0": "movie",
+      "q1": ["drama", "horror"],
+      "q2": 1980,
+      "q3": "18+",
+      "qm0": 146
+    }
+  },
+  {
+    "details": {
+      "type": "movie",
+      "name": "Gladiator",
+      "genre": "Action, Adventure, Drama",
+      "production_year": 2000,
+      "age_range": "18+",
+      "duration": "155 minutes"
+    },
+    "facts": {
+      "q0": "movie",
+      "q1": ["action", "adventure", "drama"],
+      "q2": 2000,
+      "q3": "18+",
+      "qm0": 155
+    }
+  },
+  {
+    "details": {
+      "type": "movie",
+      "name": "The Lord of the Rings: The Two Towers",
+      "genre": "Adventure, Drama, Fantasy",
+      "production_year": 2002,
+      "age_range": "13+",
+      "duration": "179 minutes"
+    },
+    "facts": {
+      "q0": "movie",
+      "q1": ["adventure", "drama", "fantasy"],
+      "q2": 2002,
+      "q3": "13+",
+      "qm0": 179
+    }
+  },
+  {
+    "details": {
+      "type": "movie",
+      "name": "The Lord of the Rings: The Return of the King",
+      "genre": "Adventure, Drama, Fantasy",
+      "production_year": 2003,
+      "age_range": "13+",
+      "duration": "201 minutes"
+    },
+    "facts": {
+      "q0": "movie",
+      "q1": ["adventure", "drama", "fantasy"],
+      "q2": 2003,
+      "q3": "13+",
+      "qm0": 201
+    }
+  },
+  {
+    "details": {
+      "type": "movie",
+      "name": "Inglourious Basterds",
+      "genre": "Adventure, Drama, War",
+      "production_year": 2009,
+      "age_range": "18+",
+      "duration": "153 minutes"
+    },
+    "facts": {
+      "q0": "movie",
+      "q1": ["adventure", "drama", "war"],
+      "q2": 2009,
+      "q3": "18+",
+      "qm0": 153
+    }
+  },
+  {
+    "details": {
+      "type": "movie",
+      "name": "The Dark Knight Rises",
+      "genre": "Action, Thriller",
+      "production_year": 2012,
+      "age_range": "13+",
+      "duration": "164 minutes"
+    },
+    "facts": {
+      "q0": "movie",
+      "q1": ["action", "thriller"],
+      "q2": 2012,
+      "q3": "13+",
+      "qm0": 164
+    }
+  },
+  {
+    "details": {
+      "type": "movie",
+      "name": "Avatar",
+      "genre": "Action, Adventure, Fantasy",
+      "production_year": 2009,
+      "age_range": "13+",
+      "duration": "162 minutes"
+    },
+    "facts": {
+      "q0": "movie",
+      "q1": ["action", "adventure", "fantasy"],
+      "q2": 2009,
+      "q3": "13+",
+      "qm0": 162
+    }
+  },
+  {
+    "details": {
+      "type": "movie",
+      "name": "The Wolf of Wall Street",
+      "genre": "Biography, Crime, Drama",
+      "production_year": 2013,
+      "age_range": "18+",
+      "duration": "180 minutes"
+    },
+    "facts": {
+      "q0": "movie",
+      "q1": ["biography", "crime", "drama"],
+      "q2": 2013,
+      "q3": "18+",
+      "qm0": 180
+    }
+  },
+  {
+    "details": {
+      "type": "movie",
+      "name": "The Departed",
+      "genre": "Crime, Drama, Thriller",
+      "production_year": 2006,
+      "age_range": "18+",
+      "duration": "151 minutes"
+    },
+    "facts": {
+      "q0": "movie",
+      "q1": ["crime", "drama", "thriller"],
+      "q2": 2006,
+      "q3": "18+",
+      "qm0": 151
+    }
+  },
+  {
+    "details": {
+      "type": "tv-show",
+      "name": "Breaking Bad",
+      "genre": "Crime, Drama, Thriller",
+      "production_year": 2008,
+      "age_range": "18+",
+      "number_seasons": 5
+    },
+    "facts": {
+      "q0": "tv-show",
+      "q1": ["crime", "drama", "thriller"],
+      "q2": 2008,
+      "q3": "18+",
+      "qt0": 5
+    }
+  },
+  {
+    "details": {
+      "type": "tv-show",
+      "name": "Game of Thrones",
+      "genre": "Action, Adventure, Drama",
+      "production_year": 2011,
+      "age_range": "18+",
+      "number_seasons": 8
+    },
+    "facts": {
+      "q0": "tv-show",
+      "q1": ["action", "adventure", "drama"],
+      "q2": 2011,
+      "q3": "18+",
+      "qt0": 8
+    }
+  },
+  {
+    "details": {
+      "type": "tv-show",
+      "name": "Stranger Things",
+      "genre": "Drama, Fantasy, Horror",
+      "production_year": 2016,
+      "age_range": "13+",
+      "number_seasons": 4
+    },
+    "facts": {
+      "q0": "tv-show",
+      "q1": ["drama", "fantasy", "horror"],
+      "q2": 2016,
+      "q3": "13+",
+      "qt0": 4
+    }
+  },
+  {
+    "details": {
+      "type": "tv-show",
+      "name": "The Crown",
+      "genre": "Biography, Drama, History",
+      "production_year": 2016,
+      "age_range": "18+",
+      "number_seasons": 4
+    },
+    "facts": {
+      "q0": "tv-show",
+      "q1": ["biography", "drama", "history"],
+      "q2": 2016,
+      "q3": "18+",
+      "qt0": 4
+    }
+  },
+  {
+    "details": {
+      "type": "tv-show",
+      "name": "The Office (US)",
+      "genre": "Comedy",
+      "production_year": 2005,
+      "age_range": "13+",
+      "number_seasons": 9
+    },
+    "facts": {
+      "q0": "tv-show",
+      "q1": ["comedy"],
+      "q2": 2005,
+      "q3": "13+",
+      "qt0": 9
+    }
+  },
+  {
+    "details": {
+      "type": "tv-show",
+      "name": "Friends",
+      "genre": "Comedy, Romance",
+      "production_year": 1994,
+      "age_range": "13+",
+      "number_seasons": 10
+    },
+    "facts": {
+      "q0": "tv-show",
+      "q1": ["comedy", "romance"],
+      "q2": 1994,
+      "q3": "13+",
+      "qt0": 10
+    }
+  },
+  {
+    "details": {
+      "type": "tv-show",
+      "name": "Sherlock",
+      "genre": "Crime, Drama, Mystery",
+      "production_year": 2010,
+      "age_range": "13+",
+      "number_seasons": 4
+    },
+    "facts": {
+      "q0": "tv-show",
+      "q1": ["crime", "drama", "mystery"],
+      "q2": 2010,
+      "q3": "13+",
+      "qt0": 4
+    }
+  },
+  {
+    "details": {
+      "type": "tv-show",
+      "name": "The Mandalorian",
+      "genre": "Action, Adventure, Fantasy",
+      "production_year": 2019,
+      "age_range": "13+",
+      "number_seasons": 2
+    },
+    "facts": {
+      "q0": "tv-show",
+      "q1": ["action", "adventure", "fantasy"],
+      "q2": 2019,
+      "q3": "13+",
+      "qt0": 2
+    }
+  },
+  {
+    "details": {
+      "type": "tv-show",
+      "name": "Breaking Bad",
+      "genre": "Crime, Drama, Thriller",
+      "production_year": 2008,
+      "age_range": "18+",
+      "number_seasons": 5
+    },
+    "facts": {
+      "q0": "tv-show",
+      "q1": ["crime", "drama", "thriller"],
+      "q2": 2008,
+      "q3": "18+",
+      "qt0": 5
+    }
+  },
+  {
+    "details": {
+      "type": "tv-show",
+      "name": "The Witcher",
+      "genre": "Action, Adventure, Drama",
+      "production_year": 2019,
+      "age_range": "18+",
+      "number_seasons": 2
+    },
+    "facts": {
+      "q0": "tv-show",
+      "q1": ["action", "adventure", "drama"],
+      "q2": 2019,
+      "q3": "18+",
+      "qt0": 2
+    }
+  },
+  {
+    "details": {
+      "type": "tv-show",
+      "name": "Mindhunter",
+      "genre": "Crime, Drama, Thriller",
+      "production_year": 2017,
+      "age_range": "18+",
+      "number_seasons": 2
+    },
+    "facts": {
+      "q0": "tv-show",
+      "q1": ["crime", "drama", "thriller"],
+      "q2": 2017,
+      "q3": "18+",
+      "qt0": 2
+    }
+  },
+  {
+    "details": {
+      "type": "tv-show",
+      "name": "Money Heist",
+      "genre": "Action, Crime, Drama",
+      "production_year": 2017,
+      "age_range": "18+",
+      "number_seasons": 5
+    },
+    "facts": {
+      "q0": "tv-show",
+      "q1": ["action", "crime", "drama"],
+      "q2": 2017,
+      "q3": "18+",
+      "qt0": 5
+    }
+  },
+  {
+    "details": {
+      "type": "tv-show",
+      "name": "Narcos",
+      "genre": "Biography, Crime, Drama",
+      "production_year": 2015,
+      "age_range": "18+",
+      "number_seasons": 3
+    },
+    "facts": {
+      "q0": "tv-show",
+      "q1": ["biography", "crime", "drama"],
+      "q2": 2015,
+      "q3": "18+",
+      "qt0": 3
+    }
+  },
+  {
+    "details": {
+      "type": "tv-show",
+      "name": "Stranger Things",
+      "genre": "Drama, Fantasy, Horror",
+      "production_year": 2016,
+      "age_range": "13+",
+      "number_seasons": 4
+    },
+    "facts": {
+      "q0": "tv-show",
+      "q1": ["drama", "fantasy", "horror"],
+      "q2": 2016,
+      "q3": "13+",
+      "qt0": 4
+    }
+  },
+  {
+    "details": {
+      "type": "tv-show",
+      "name": "The Crown",
+      "genre": "Biography, Drama, History",
+      "production_year": 2016,
+      "age_range": "18+",
+      "number_seasons": 4
+    },
+    "facts": {
+      "q0": "tv-show",
+      "q1": ["biography", "drama", "history"],
+      "q2": 2016,
+      "q3": "18+",
+      "qt0": 4
+    }
+  },
+  {
+    "details": {
+      "type": "tv-show",
+      "name": "The Umbrella Academy",
+      "genre": "Action, Adventure, Comedy",
+      "production_year": 2019,
+      "age_range": "18+",
+      "number_seasons": 3
+    },
+    "facts": {
+      "q0": "tv-show",
+      "q1": ["action", "adventure", "comedy"],
+      "q2": 2019,
+      "q3": "18+",
+      "qt0": 3
+    }
+  },
+  {
+    "details": {
+      "type": "tv-show",
+      "name": "The Witcher",
+      "genre": "Action, Adventure, Drama",
+      "production_year": 2019,
+      "age_range": "18+",
+      "number_seasons": 2
+    },
+    "facts": {
+      "q0": "tv-show",
+      "q1": ["action", "adventure", "drama"],
+      "q2": 2019,
+      "q3": "18+",
+      "qt0": 2
+    }
+  },
+  {
+    "details": {
+      "type": "tv-show",
+      "name": "Vikings",
+      "genre": "Action, Adventure, Drama",
+      "production_year": 2013,
+      "age_range": "18+",
+      "number_seasons": 6
+    },
+    "facts": {
+      "q0": "tv-show",
+      "q1": ["action", "adventure", "drama"],
+      "q2": 2013,
+      "q3": "18+",
+      "qt0": 6
+    }
+  },
+  {
+    "details": {
+      "type": "tv-show",
+      "name": "Black Mirror",
+      "genre": "Drama, Sci-Fi, Thriller",
+      "production_year": 2011,
+      "age_range": "18+",
+      "number_seasons": 5
+    },
+    "facts": {
+      "q0": "tv-show",
+      "q1": ["drama", "sci-fi", "thriller"],
+      "q2": 2011,
+      "q3": "18+",
+      "qt0": 5
+    }
+  }
+]
